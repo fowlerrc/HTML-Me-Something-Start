@@ -1,1 +1,22 @@
-/* Write your CSS here! */
+.center {
+    text-align: center;
+    color: red;
+}
+body {
+    background-color: yellow;
+    margin: 8px;
+    display: block;
+
+}
+#mainHeading {
+    color: red;
+    text-decoration-line: underline
+    
+}
+
+.funParagraph {
+    color: green;
+
+}
+
+    
